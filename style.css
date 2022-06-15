@@ -1,0 +1,36 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: rgb(238, 206, 211);
+
+}
+
+.heading_div {
+    background-color: white;
+    color: brown;
+}
+
+.heading_div p{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.div_main button{
+    margin-top: 30px;
+    width: 150px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: gray;
+    font-size: medium;
+    background-color: whitesmoke;
+    text-align: center;
+    text-shadow: 5px 5px 2px yellow;
+}
